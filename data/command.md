@@ -1,22 +1,20 @@
 ##intent|goodbye|fr
+- ciao
 - tchao
 - adieu
-- ciao
-- bye bye
-- au plaisir
-- à bientôt
-- a bientôt
-- a la prochaine
-- au revoir linto
-- au revoir
-- au plaisir linto
-- a bientôt linto
-- a bientôt
 - bye
+- bye bye
+- à la prochaine
+- à bientôt
+- a bientôt linto
+- au revoir
+- au revoir linto
+- au plaisir
+- au plaisir linto
 - a la revoyure
 - a plus
 ##intent|goodbye|en
-- well thank
+- well thanks
 - see you soon
 - farewell
 - goodbye
@@ -29,7 +27,7 @@
 - good bye
 - bye
 - bye bye
-- goodbye LinTo
+- goodbye linTo
 - thank you LinTo
 - thanks
 ##intent|greeting|fr
@@ -52,24 +50,21 @@
 - good morning
 - good afternoon
 - good evening
-- howdy
 - hello
 - hi
-- what’s your name ?
 - what's your name
 ##intent|howareyou|fr
 - bonjour linto comment vas-tu
 - comment ça va
 - comment vas tu
 - comment tu vas
-- ca roule ?
+- ca roule
 - est ce que ça va
 - linto comment ça va
 - je me sens [bien](isok)
 - tout va [bien](isok)
 - tout va [bien](isok) merci
 - je vais [bien](isok)
-- je [vais bien](isok)
 - ca va [bien](isok)
 - [ca va](isok)
 - [ca va](isok) merci
@@ -79,27 +74,25 @@
 - [tranquille](isok)
 - je vais [pas très bien](isko)
 - ca va pas [très bien](isko)
-- je [vais pas bien](isko)
+- je vais [pas bien](isko)
 - je me sens [pas bien](isko)
 - je ne me sens [pas bien](isko) aujourd'hui
 - [pas très](isko) en forme
 - je suis de [mauvaise](isko) humeur
-- ça [ne va pas](isko) trop
+- ça [ne va pas](isko)
 ##intent|howareyou|en
 - are you ok
 - are you okay
 - how are you doing
 - how are you
-- how are you doing ?
-- how are you?
 - how do you do
-- are you fine?
-- are you feeling good?
-- are you ok ?
+- are you fine
+- are you feeling good
+- are you ok
 - howdy
 - everything is [good](isok)
 - i'm [happy](isok)
-- i'm feel [great](isok)
+- i'm feeling [great](isok)
 - i'm [right](isok)
 - [well](isok) thanks
 - [ok](isok)
