@@ -1,22 +1,58 @@
 {
   "en-US": {
     "say": {
-      "greeting": "Hello, my name is LinTo",
-      "goodbye": "It was a pleasure, see you soon",
-      "howareyou": "I'm fine thanks, what about you ?",
-      "status_unk": "Sorry i don't know what to say",
-      "isok": "Nice to hear that, how can I help you ?",
-      "isko": "Sorry to hear that, what can I do for you to feel better ?"
+      "greeting": {
+        "phonetic": "Hello, my name is LinTo",
+        "text": "Hello, my name is LinTo"
+      },
+      "goodbye": {
+        "phonetic": "It was a pleasure, see you soon",
+        "text": "It was a pleasure, see you soon"
+      },
+      "howareyou": {
+        "phonetic": "I'm fine thanks, what about you ?",
+        "text": "I'm fine thanks, what about you ?"
+      },
+      "status_unk": {
+        "phonetic": "Sorry i don't know what to say",
+        "text": "Sorry i don't know what to say"
+      },
+      "isok": {
+        "phonetic": "Nice to hear that, how can I help you ?",
+        "text": "Nice to hear that, how can I help you ?"
+      },
+      "isko": {
+        "phonetic": "Sorry to hear that, what can I do for you to feel better ?",
+        "text": "Sorry to hear that, what can I do for you to feel better ?"
+      }
     }
   },
   "fr-FR": {
     "say": {
-      "greeting": "Salut, je m'appelle LineTo.",
-      "goodbye": "Ce fut un plaisir. A bientôt !",
-      "howareyou": "Je vais bien merci, et vous ?",
-      "status_unk": "Désolé je ne sais pas quoi répondre",
-      "isok": "Ravi de l'entendre, à votre service.",
-      "isko": "Mince. Désolé pour vous, comment puis-je vous aider ?"
+      "greeting": {
+        "phonetic": "Salut, je m'appelle LineTo.",
+        "text": "Salut, je m'appelle LinTo"
+      },
+      "goodbye": {
+        "phonetic": "Ce fut un plaisir. A bientôt !",
+        "text": "Ce fut un plaisir. A bientôt !"
+      },
+      "howareyou": {
+        "phonetic": "Je vais bien merci, et vous ?",
+        "text": "Je vais bien merci, et vous ?"
+      },
+      "status_unk": {
+        "phonetic": "Désolé je ne sais pas quoi répondre",
+        "text": "Désolé je ne sais pas quoi répondre"
+      },
+      "isok": {
+        "phonetic": "Ravi de l'entendre, à votre service.",
+        "text": "Ravi de l'entendre, à votre service."
+      },
+      "isko": {
+        "phonetic": "Mince. Désolé pour vous, comment puis-je vous aider ?",
+        "text": "Mince. Désolé pour vous, comment puis-je vous aider ?"
+      }
     }
   }
 }
