@@ -2,11 +2,7 @@
 - ciao
 - à bientôt
 - à la prochaine
-- au revoir linto
 - au revoir
-- à bientôt linto
-- à bientôt
-- bye
 - à plus
 
 ##intent|goodbye|en
@@ -24,7 +20,6 @@
 - comment tu t'appelles
 - bonsoir
 - salut
-- salut linto
 
 ##intent|greeting|en
 - greeting
@@ -41,15 +36,14 @@
 - comment vas-tu
 - comment tu vas
 - est-ce que ça va
-- linto comment ça va
 - tout va [bien](isok)
 - je vais [bien](isok)
 - je [vais bien](isok)
 - ça va [bien](isok)
 - [oui](isok)
-- je vais [pas très bien](isko)
-- ça va pas [très bien](isko)
-- je [vais pas bien](isko)
+- je ne vais [pas très bien](isko)
+- ça ne va pas [très bien](isko)
+- je ne [vais pas bien](isko)
 - je ne me sens [pas bien](isko)
 - ça [ne va pas](isko) trop
 
