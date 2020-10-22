@@ -1,9 +1,13 @@
 {
   "en-US": {
     "say": {
+      "icando" :{
+        "phonetic": "Here is what i can do : ",
+        "text": "Here is what i can do : "
+      },
       "greeting": {
-        "phonetic": "Hello, my name is LynTo",
-        "text": "Hello, my name is LinTo"
+        "phonetic": "Hello, I am your voice assistant. To know my orders say: what do you know how to do",
+        "text": "Hello, I am your voice assistant. To know my skills say: what do you do"
       },
       "goodbye": {
         "phonetic": "It was a pleasure, see you soon",
@@ -29,9 +33,13 @@
   },
   "fr-FR": {
     "say": {
+      "icando" :{
+        "phonetic": "Voici ce que je sais faire : ",
+        "text": "Voici ce que je sais faire : "
+      },
       "greeting": {
-        "phonetic": "Salut, je m'appelle LineTo.",
-        "text": "Salut, je m'appelle LinTo"
+        "phonetic": "Bonjour, je suis votre assistant vocal. Pour connaitre mais commandes dite : que sais tu faire",
+        "text": "Bonjour, je suis votre assistant vocal. Pour connaître mes commandes dite : que sais tu faire"
       },
       "goodbye": {
         "phonetic": "Ce fut un plaisir. A bientôt !",

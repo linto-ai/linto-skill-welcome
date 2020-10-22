@@ -1,3 +1,13 @@
+##intent|capabilities|fr
+- que peux tu faire
+- que sais tu faire
+- dis moi [tous](all) ce que tu sais faire
+- donne moi [toutes](all) tes commandes
+
+##intent|capabilities|en
+- what do you do
+- give me [all](all) you'r voice commands
+
 ##intent|goodbye|fr
 - ciao
 - à bientôt

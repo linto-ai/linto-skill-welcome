@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "@linto-ai/linto-components": "latest",
-    "debug": "^4.1.1"
+    "debug": "^4.1.1",
+    "lodash": "^4.17.20"
   },
   "homepage": "https://linto.ai/",
   "directories": {
