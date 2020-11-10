@@ -38,8 +38,8 @@
         "text": "Voici ce que je sais faire : "
       },
       "greeting": {
-        "phonetic": "Bonjour, je suis votre assistant vocal. Pour connaitre mais commandes dite : que sais tu faire",
-        "text": "Bonjour, je suis votre assistant vocal. Pour connaître mes commandes dite : que sais tu faire"
+        "phonetic": "Bonjour, je suis votre assistant vocal. Pour connaitre mais commandes vous pouvez me demander : que sais tu faire",
+        "text": "Bonjour, je suis votre assistant vocal. Pour connaître mes commandes vous pouvez me demander : que sais tu faire"
       },
       "goodbye": {
         "phonetic": "Ce fut un plaisir. A bientôt !",

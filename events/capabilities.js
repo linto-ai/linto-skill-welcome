@@ -15,7 +15,7 @@ module.exports = function (msg) {
       }
     })
 
-    if (msg.payload.nlu.entitiesNumber === undefined || msg.payload.nlu.entitiesNumber === 0) {
+  if (msg.payload.nlu.entitiesNumber === undefined || msg.payload.nlu.entitiesNumber === 0) {
     skillsNode = skillsNode.sort(() => 0.5 - Math.random()).slice(0, MIN_ELEMENT)
     skillsNode = skillsNode
   }

@@ -1,13 +1,3 @@
-##intent|capabilities|fr
-- que peux tu faire
-- que sais tu faire
-- dis moi [tous](all) ce que tu sais faire
-- donne moi [toutes](all) tes commandes
-
-##intent|capabilities|en
-- what do you do
-- give me [all](all) you'r voice commands
-
 ##intent|goodbye|fr
 - ciao
 - à bientôt
@@ -19,10 +9,9 @@
 - see you soon
 - goodbye
 - goodbye linto
-- thank you 
+- thank you
 - see you
 - bye
-- thanks
 
 ##intent|greeting|fr
 - bonjour
@@ -32,14 +21,16 @@
 - salut
 
 ##intent|greeting|en
-- greeting
+- greetings
 - hey
+- hey there
 - good morning
 - good afternoon
 - good evening
 - hello
 - hi
-- what's your name
+- how do you do
+- howdy
 
 ##intent|howareyou|fr
 - comment ça va
@@ -59,23 +50,45 @@
 
 ##intent|howareyou|en
 - are you okay
-- how are you doing
-- how do you do
+- what's up
+- how are you
+- how are you doing today
+- how are you feeling
+- how's it going
+- how are things going?
 - everything is [good](isok)
+- everything's [alright](isok)
+- things are [pretty good](isok)
 - i am [happy](isok)
+- i'm [ok](isok) thanks
+- i'm [alright](isok)
+- i'm [doing pretty well](isok)
+- i'm [doing well](isok) thanks
 - [ok](isok)
-- i am [fine](isok)
 - [good](isok) thanks
+- i am [fine](isok)
 - i'm [fine](isok)
-- i'm [ok](isok)
-- everything is [alright](isok)
-- i'm [not well](isko) thank you
+- things are [not so good](isko)
+- things aren' [t so good](isko)
+- i'm [not well](isko)
 - i'm [not fine](isko)
 - i'm [not ok](isko)
-- i'm [not feeling good](isko) today
+- i'm [not feeling well](isko) today
 - i'm in a [bad mood](isko)
 - [not fine](isko)
 - [not ok](isko)
-- [not good](isko) thanks
-- [not well](isko) thanks
+- [not so well](isko)
+- [not too good](isko)
+- [not so well](isko)
 - i am [sad](isko)
+- i'm [depressed](isko)
+
+##intent|capabilities|fr
+- que peux tu faire
+- que sais tu faire
+- dis moi [tous](all) ce que tu sais faire
+- donne moi [toutes](all) tes commandes
+
+##intent|capabilities|en
+- what do you do
+- give me [all](all) you'r voice commands
