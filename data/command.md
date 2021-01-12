@@ -1,119 +1,94 @@
 ##intent|goodbye|fr
 - ciao
-- tchao
-- adieu
-- bye
-- bye bye
-- à la prochaine
 - à bientôt
-- a bientôt linto
+- à la prochaine
 - au revoir
-- au revoir linto
-- au plaisir
-- au plaisir linto
-- a la revoyure
-- a plus
+- à plus
+
 ##intent|goodbye|en
-- well thanks
 - see you soon
-- farewell
 - goodbye
-- good bye 
-- good bye linto
-- thank you 
-- thank you linto
-- see ya
+- goodbye linto
+- thank you
 - see you
-- good bye
 - bye
-- bye bye
-- goodbye linTo
-- thank you LinTo
-- thanks
+
 ##intent|greeting|fr
 - bonjour
-- coucou
-- donne moi ton nom
 - bonjour, comment tu t'appelles
 - comment tu t'appelles
-- yo
 - bonsoir
 - salut
-- salut linto
-- bienvenue
-- salutation
-- hey
+
 ##intent|greeting|en
-- greeting
-- hiya
+- greetings
 - hey
+- hey there
 - good morning
 - good afternoon
 - good evening
 - hello
 - hi
-- what's your name
-##intent|howareyou|fr
-- bonjour linto comment vas-tu
-- comment ça va
-- comment vas tu
-- comment tu vas
-- ca roule
-- est ce que ça va
-- linto comment ça va
-- je me sens [bien](isok)
-- tout va [bien](isok)
-- tout va [bien](isok) merci
-- je vais [bien](isok)
-- ca va [bien](isok)
-- [ca va](isok)
-- [ca va](isok) merci
-- ça va [bien](isok)
-- [ça va](isok)
-- [oui](isok)
-- [tranquille](isok)
-- je vais [pas très bien](isko)
-- ca va pas [très bien](isko)
-- je vais [pas bien](isko)
-- je me sens [pas bien](isko)
-- je ne me sens [pas bien](isko) aujourd'hui
-- [pas très](isko) en forme
-- je suis de [mauvaise](isko) humeur
-- ça [ne va pas](isko)
-##intent|howareyou|en
-- are you ok
-- are you okay
-- how are you doing
-- how are you
 - how do you do
-- are you fine
-- are you feeling good
-- are you ok
 - howdy
+
+##intent|howareyou|fr
+- comment ça va
+- comment vas-tu
+- comment tu vas
+- est-ce que ça va
+- tout va [bien](isok)
+- je vais [bien](isok)
+- je [vais bien](isok)
+- ça va [bien](isok)
+- [oui](isok)
+- je ne vais [pas très bien](isko)
+- ça ne va pas [très bien](isko)
+- je ne [vais pas bien](isko)
+- je ne me sens [pas bien](isko)
+- ça [ne va pas](isko) trop
+
+##intent|howareyou|en
+- are you okay
+- what's up
+- how are you
+- how are you doing today
+- how are you feeling
+- how's it going
+- how are things going?
 - everything is [good](isok)
-- i'm [happy](isok)
-- i'm feeling [great](isok)
-- i'm [right](isok)
-- [well](isok) thanks
+- everything's [alright](isok)
+- things are [pretty good](isok)
+- i am [happy](isok)
+- i'm [ok](isok) thanks
+- i'm [alright](isok)
+- i'm [doing pretty well](isok)
+- i'm [doing well](isok) thanks
 - [ok](isok)
-- i am [fine](isok)
-- [fine](isok)
 - [good](isok) thanks
-- i'm [well](isok) thank you
+- i am [fine](isok)
 - i'm [fine](isok)
-- i'm [ok](isok)
-- i'm in a [good mood](isok)
-- everything is [alright](isok)
-- i feel [good](isok)
-- i'm [not well](isko) thank you
+- things are [not so good](isko)
+- things aren' [t so good](isko)
+- i'm [not well](isko)
 - i'm [not fine](isko)
 - i'm [not ok](isko)
-- i feel [no good](isko)
-- i'm [not feeling good](isko) today
-- [not good](isko)
+- i'm [not feeling well](isko) today
 - i'm in a [bad mood](isko)
 - [not fine](isko)
 - [not ok](isko)
-- [not good](isko) thanks
-- [not well](isko) thanks
+- [not so well](isko)
+- [not too good](isko)
+- [not so well](isko)
 - i am [sad](isko)
+- i'm [depressed](isko)
+
+##intent|capabilities|fr
+- que peux tu faire
+- que sais tu faire
+- dis moi [tous](all) ce que tu sais faire
+- donne moi [toutes](all) tes commandes
+
+##intent|capabilities|en
+- what do you do
+- give me [all](all) you'r voice commands
